@@ -1,0 +1,48 @@
+=================================
+              Array
+================================
+
+------------------------------------
+single dimension array
+------------------------------------
+-collection of similar data types
+-can be created with any types of data
+-elements of array is called index
+-both single dimension and multi dimension()
+
+note:- new keyword is used for dynamic memory allocation
+[10] means 40 byte
+
+one space takes 4 byte
+
+
+----------------------
+multideimensional array
+------------------------
+
+-collection of more than  one dimensional  array
+-way to declare multi dimensional array
+int a[][]=new int[][]
+
+-to declare and initialize array
+
+first way---int a[][]={a,b,c}
+
+secod way---int a[][]={{},{},{}}
+
+-second dimension is not compulsory
+
+ second dimesnion default takes five columns
+ 
+-can have differnet column size in same array(Jagg array-nested array of different dimension)
+ 
+ -------------------
+ Assignment for lab
+ ------------------
+ 
+ 1.Write java program to find out average of all the elements in the given array.
+ -int or double
+ 2.Write a java program to implement linear search algorithim(modular).
+ 3.Write a java program to implement binary search algorithim.
+ 4.Write java program for matrix multiplication.
+ 5.Write a java program to implement jagged array

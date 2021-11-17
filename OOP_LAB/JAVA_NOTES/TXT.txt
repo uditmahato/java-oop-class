@@ -1,0 +1,21 @@
+14th November
+--------  -----.---------
+notation  value.used in
+--------  -----.--------
+
+"%d"--Decimalinteger.(Integer)
+"%f"--float.(float&double)
+"%s"--string.(String)
+"%c"--character.(character)
+
+------------------------
+methods to compare string
+--------------------------
+
+using = =
+using .equals
+--firststring.equals();
+using .equalsIgnoreCase
+--firststring.equalsIgnoreCase();
+using .compareTo
+--firststring.compareTo();
