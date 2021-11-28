@@ -46,3 +46,18 @@ secod way---int a[][]={{},{},{}}
  3.Write a java program to implement binary search algorithim.
  4.Write java program for matrix multiplication.
  5.Write a java program to implement jagged array
+ 
+==============================
+Array list
+==============================
+
+-Arraylist is used to create dynamic array
+
+syntax
+-----
+Arraylist<datatype> variablename=new Arraylist<datatype>();
+
+Integer:
+
+Arraylist<Integer> a=new Arraylist<Integer>();
+
